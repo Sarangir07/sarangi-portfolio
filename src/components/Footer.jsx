@@ -55,7 +55,6 @@ export default function Footer() {
           <p>
             © {year} {profile.name}. All rights reserved.
           </p>
-          <p>Built with React, Vite and Tailwind CSS.</p>
         </div>
       </div>
     </footer>
