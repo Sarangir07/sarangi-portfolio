@@ -53,7 +53,7 @@ export default function Footer() {
 
         <div className="mt-10 flex flex-col gap-2 border-t border-line pt-6 text-[13px] text-ink-3 sm:flex-row sm:items-center sm:justify-between">
           <p>
-            © {year} {profile.name}. All rights reserved.
+            © {year} {profile.name}. All rights reserves.
           </p>
         </div>
       </div>
